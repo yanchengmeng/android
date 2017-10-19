@@ -14,7 +14,7 @@ XMind(风格-Classic-经典)
 # 组件整理
 android公共组件整理:
 - 图片选择
-- 公共模块： 工具类（屏幕参数、IMEI、app后台判断）、loading、toast、BaseActivity、空视图、网络监测（包括无网络提示)， 6.0权限适配, SP管理, bitmap处理，时间处理（格式化显示），文件管理
+- 公共模块： 工具类（屏幕参数、IMEI、app后台判断）、loading、toast、BaseActivity、空视图、网络监测（包括无网络提示)， 6.0权限适配, SP管理, bitmap处理，时间处理（格式化显示），文件管理, JSON解析
 - recycleview
 - 下拉刷新、上拉加载更多
 - 推送：整合小米、华为、友盟推送
