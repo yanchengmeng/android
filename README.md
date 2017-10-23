@@ -8,7 +8,7 @@ android模块，包括android技能树、成长路线、最佳实践
 - pushservice :  整合友盟、华为、小米推送服务
 
 # 技能树
-![android 技能树](https://github.com/30days-tech/android/blob/master/Android%E6%8A%80%E8%83%BD%E6%A0%91.png)
+![android 技能树](https://github.com/30days-tech/android/blob/master/成长路线/Android%E6%8A%80%E8%83%BD%E6%A0%91.png)
 XMind(风格-Classic-经典)
 
 # 组件整理
