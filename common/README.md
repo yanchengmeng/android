@@ -7,3 +7,7 @@
 	- SystemBarHelper: 沉浸式状态栏工具类， 适配4.4及以上版本
 	- CollectionUtil: 集合工具类， 判断集合是否为空、排序等
 	- MD5Util : md5加密工具类，支持字符、文件
+	
+
+## 使用方法
+Android Studio以module形式直接导入
