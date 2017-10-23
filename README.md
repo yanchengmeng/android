@@ -11,12 +11,6 @@ android模块，包括android技能树、成长路线、最佳实践
 ![android 技能树](https://github.com/30days-tech/android/blob/master/成长路线/Android%E6%8A%80%E8%83%BD%E6%A0%91.png)
 XMind(风格-Classic-经典)
 
-# 组件整理
-android公共组件整理:
-- 图片选择
-- 公共模块： 工具类（屏幕参数、IMEI、app后台判断）、loading、toast、BaseActivity、空视图、网络监测（包括无网络提示)， 6.0权限适配, SP管理, bitmap处理，时间处理（格式化显示），文件管理, JSON解析
-- recycleview
-- 下拉刷新、上拉加载更多
-- 推送：整合小米、华为、友盟推送
-- 网络请求
+# 常用组件
+- [common]() : 公共模块, 包括常用工具类
 
